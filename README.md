@@ -1,10 +1,5 @@
 # SQL-project
 
-Perfect bro 👍 let’s trim it clean and professional for GitHub — no need to lock ourselves into a fixed set of insights.
-Here’s the **refined README.md** without the "Key Business Insights" section 👇
-
----
-
 #  FinTech Analytics Database (SQL Project)
 
 ##  Overview
