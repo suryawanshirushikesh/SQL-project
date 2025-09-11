@@ -33,4 +33,14 @@ The database consists of **6 core tables**, connected through relational keys:
 * **Advanced Filtering & Grouping**
 * **Database Schema Design & Constraints**
 
+## How This Helps Banks
+
+Spot top customers and high-value accounts for better offers.
+
+See loan default trends to reduce risk.
+
+Track merchant and payment patterns to boost revenue.
+
+Keep data clean and ready for reports or audits.
+
 
