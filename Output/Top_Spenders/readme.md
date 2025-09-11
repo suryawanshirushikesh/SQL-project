@@ -1,1 +1,1 @@
-This Query returns top 10 spendersamongs all
+This Query returns top 10 spenders amongs all
